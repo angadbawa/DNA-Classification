@@ -83,6 +83,12 @@ A defining feature of TFs is that they contain at least one DNA-binding domain (
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Transcription_Factors.svg" width="800"/>
 </div>
 
+K-mers are subsequences of length k {\displaystyle k} k contained within a biological sequence. Primarily used within the context of computational genomics and sequence analysis, in which k-mers are composed of nucleotides 
+(i.e. A, T, G, and C), k-mers are capitalized upon to assemble DNA sequences,[1] improve heterologous gene expression,[2][3] identify species in metagenomic samples,[4] and create attenuated vaccines.[5] Usually, the term k-mer refers to all of a sequence's subsequences of length k {\displaystyle k} k, such that the sequence AGAT would have four monomers (A, G, A, and T), three 2-mers (AG, GA, AT), two 3-mers (AGA and GAT) and one 4-mer (AGAT).
+
+
+
+
 
 
 # CONCLUSION - 
